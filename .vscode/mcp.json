@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "mcp-aic-server": {
+      "command": "node",
+      "args": ["/Users/shayfleming/mcp-aic-server/dist/app.js"]
+    }
+  }
+}
